@@ -15,5 +15,5 @@ Uses [WISVCH/bootstrap-theme](https://github.com/WISVCH/bootstrap-theme) for sty
 5. Add a CH-LDAP-group you are in to the events.admin.groups in the configuration file(config/application.properties)
 6. Start the project by right-clicking `EventsApplication` and clicking 'Run'
 
-
+---
 test
